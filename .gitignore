@@ -23,5 +23,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-/src/main/java/com/example/springwebfluxannotationbased/controller/SimpleController.java
-/src/main/java/com/example/springwebfluxannotationbased/model/Person.java
